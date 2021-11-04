@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.mainDiv{
+    width: 100%;
+    height: 99.9vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/tasbih.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 1px;
+}
+
+.heading{
+    width: fit-content;
+    margin: 8rem auto;
+    color: white;
+    font-size: 50px;
+}
+
+.counterDiv{
+    width: 20rem;
+    height: 10rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+}
+
+h2{
+    width: fit-content;
+    font-size: 60px;
+    color: white;
+}
+
+.btnContainer{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+button{
+    width: 48%;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    transition-duration: 0.3s;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+}
