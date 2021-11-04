@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/counter-digital/static/css/main.c11a4c28.chunk.css",
+    "main.js": "/counter-digital/static/js/main.fb067602.chunk.js",
+    "main.js.map": "/counter-digital/static/js/main.fb067602.chunk.js.map",
+    "runtime-main.js": "/counter-digital/static/js/runtime-main.e626f375.js",
+    "runtime-main.js.map": "/counter-digital/static/js/runtime-main.e626f375.js.map",
+    "static/js/2.9ef476dd.chunk.js": "/counter-digital/static/js/2.9ef476dd.chunk.js",
+    "static/js/2.9ef476dd.chunk.js.map": "/counter-digital/static/js/2.9ef476dd.chunk.js.map",
+    "index.html": "/counter-digital/index.html",
+    "static/css/main.c11a4c28.chunk.css.map": "/counter-digital/static/css/main.c11a4c28.chunk.css.map",
+    "static/js/2.9ef476dd.chunk.js.LICENSE.txt": "/counter-digital/static/js/2.9ef476dd.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/counter-digital/static/media/tasbih.7174aae4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e626f375.js",
+    "static/js/2.9ef476dd.chunk.js",
+    "static/css/main.c11a4c28.chunk.css",
+    "static/js/main.fb067602.chunk.js"
+  ]
+}
